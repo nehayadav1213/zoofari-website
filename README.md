@@ -1,4 +1,14 @@
-# ZOOFARI WEBSITE
+## About the Project
+
+ZOOFARI is a responsive zoo website created to provide an engaging and user-friendly
+experience for exploring animals, wildlife, and zoo information.
+
+## Features
+
+- Responsive website design
+- Animal and wildlife sections
+- User-friendly navigation
+- Attractive visual layout
 
 
 
